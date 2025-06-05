@@ -1,0 +1,174 @@
+[
+  {
+    "id": "1",
+    "type": "Weekly Step Challenge",
+    "description": "Reach 70,000 steps this week",
+    "goal": 70000,
+    "currentProgress": 42847,
+    "participants": [
+      {
+        "userId": "1",
+        "name": "Alex Johnson",
+        "steps": 42847,
+        "rank": 2
+      },
+      {
+        "userId": "2",
+        "name": "Sarah Mitchell",
+        "steps": 48923,
+        "rank": 1
+      },
+      {
+        "userId": "3",
+        "name": "Mike Rodriguez",
+        "steps": 38654,
+        "rank": 3
+      }
+    ],
+    "startDate": "2024-12-16",
+    "endDate": "2024-12-22",
+    "winner": null,
+    "prize": "Champion Badge",
+    "status": "active"
+  },
+  {
+    "id": "2",
+    "type": "Daily 10K Challenge",
+    "description": "Hit 10,000 steps every day for a week",
+    "goal": 10000,
+    "currentProgress": 8247,
+    "participants": [
+      {
+        "userId": "1",
+        "name": "Alex Johnson",
+        "steps": 8247,
+        "rank": 4
+      },
+      {
+        "userId": "4",
+        "name": "Emma Thompson",
+        "steps": 18742,
+        "rank": 1
+      },
+      {
+        "userId": "2",
+        "name": "Sarah Mitchell",
+        "steps": 14523,
+        "rank": 2
+      },
+      {
+        "userId": "3",
+        "name": "Mike Rodriguez",
+        "steps": 7865,
+        "rank": 5
+      },
+      {
+        "userId": "5",
+        "name": "John Davis",
+        "steps": 6234,
+        "rank": 6
+      }
+    ],
+    "startDate": "2024-12-19",
+    "endDate": "2024-12-19",
+    "winner": null,
+    "prize": "Daily Achiever Badge",
+    "status": "active"
+  },
+  {
+    "id": "3",
+    "type": "Mountain Climber",
+    "description": "Climb 100 floors this week",
+    "goal": 100,
+    "currentProgress": 67,
+    "participants": [
+      {
+        "userId": "1",
+        "name": "Alex Johnson",
+        "floors": 67,
+        "rank": 2
+      },
+      {
+        "userId": "4",
+        "name": "Emma Thompson",
+        "floors": 84,
+        "rank": 1
+      },
+      {
+        "userId": "2",
+        "name": "Sarah Mitchell",
+        "floors": 56,
+        "rank": 3
+      }
+    ],
+    "startDate": "2024-12-16",
+    "endDate": "2024-12-22",
+    "winner": null,
+    "prize": "Mountain Badge",
+    "status": "active"
+  },
+  {
+    "id": "4",
+    "type": "Weekend Warrior",
+    "description": "Walk 25,000 steps this weekend",
+    "goal": 25000,
+    "currentProgress": 8247,
+    "participants": [
+      {
+        "userId": "1",
+        "name": "Alex Johnson",
+        "steps": 8247,
+        "rank": 3
+      },
+      {
+        "userId": "2",
+        "name": "Sarah Mitchell",
+        "steps": 14523,
+        "rank": 2
+      },
+      {
+        "userId": "4",
+        "name": "Emma Thompson",
+        "steps": 18742,
+        "rank": 1
+      }
+    ],
+    "startDate": "2024-12-21",
+    "endDate": "2024-12-22",
+    "winner": null,
+    "prize": "Weekend Warrior Badge",
+    "status": "upcoming"
+  },
+  {
+    "id": "5",
+    "type": "Consistency Challenge",
+    "description": "Walk at least 8,000 steps for 7 days straight",
+    "goal": 8000,
+    "currentProgress": 5,
+    "participants": [
+      {
+        "userId": "1",
+        "name": "Alex Johnson",
+        "daysCompleted": 5,
+        "rank": 2
+      },
+      {
+        "userId": "2",
+        "name": "Sarah Mitchell",
+        "daysCompleted": 7,
+        "rank": 1
+      },
+      {
+        "userId": "3",
+        "name": "Mike Rodriguez",
+        "daysCompleted": 3,
+        "rank": 3
+      }
+    ],
+    "startDate": "2024-12-13",
+    "endDate": "2024-12-19",
+    "winner": "2",
+    "prize": "Consistency Champion",
+    "status": "completed"
+  }
+]

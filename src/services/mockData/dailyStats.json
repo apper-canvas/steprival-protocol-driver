@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1",
+    "userId": "1",
+    "date": "2024-12-19",
+    "steps": 8247,
+    "distance": 6.6,
+    "calories": 329,
+    "activeMinutes": 82,
+    "floors": 12,
+    "heartRate": {
+      "resting": 68,
+      "peak": 142
+    }
+  },
+  {
+    "id": "2",
+    "userId": "1",
+    "date": "2024-12-18",
+    "steps": 12453,
+    "distance": 9.9,
+    "calories": 498,
+    "activeMinutes": 124,
+    "floors": 18,
+    "heartRate": {
+      "resting": 65,
+      "peak": 156
+    }
+  },
+  {
+    "id": "3",
+    "userId": "1",
+    "date": "2024-12-17",
+    "steps": 9876,
+    "distance": 7.9,
+    "calories": 395,
+    "activeMinutes": 98,
+    "floors": 15,
+    "heartRate": {
+      "resting": 67,
+      "peak": 138
+    }
+  },
+  {
+    "id": "4",
+    "userId": "2",
+    "date": "2024-12-19",
+    "steps": 14523,
+    "distance": 11.6,
+    "calories": 581,
+    "activeMinutes": 145,
+    "floors": 22,
+    "heartRate": {
+      "resting": 62,
+      "peak": 168
+    }
+  },
+  {
+    "id": "5",
+    "userId": "3",
+    "date": "2024-12-19",
+    "steps": 7865,
+    "distance": 6.3,
+    "calories": 314,
+    "activeMinutes": 78,
+    "floors": 10,
+    "heartRate": {
+      "resting": 71,
+      "peak": 134
+    }
+  },
+  {
+    "id": "6",
+    "userId": "4",
+    "date": "2024-12-19",
+    "steps": 18742,
+    "distance": 15.0,
+    "calories": 749,
+    "activeMinutes": 187,
+    "floors": 28,
+    "heartRate": {
+      "resting": 58,
+      "peak": 172
+    }
+  },
+  {
+    "id": "7",
+    "userId": "5",
+    "date": "2024-12-19",
+    "steps": 6234,
+    "distance": 5.0,
+    "calories": 249,
+    "activeMinutes": 62,
+    "floors": 8,
+    "heartRate": {
+      "resting": 73,
+      "peak": 128
+    }
+  },
+  {
+    "id": "8",
+    "userId": "1",
+    "date": "2024-12-16",
+    "steps": 11234,
+    "distance": 9.0,
+    "calories": 449,
+    "activeMinutes": 112,
+    "floors": 17,
+    "heartRate": {
+      "resting": 66,
+      "peak": 145
+    }
+  },
+  {
+    "id": "9",
+    "userId": "1",
+    "date": "2024-12-15",
+    "steps": 8965,
+    "distance": 7.2,
+    "calories": 358,
+    "activeMinutes": 89,
+    "floors": 13,
+    "heartRate": {
+      "resting": 69,
+      "peak": 141
+    }
+  },
+  {
+    "id": "10",
+    "userId": "1",
+    "date": "2024-12-14",
+    "steps": 13876,
+    "distance": 11.1,
+    "calories": 555,
+    "activeMinutes": 138,
+    "floors": 21,
+    "heartRate": {
+      "resting": 64,
+      "peak": 159
+    }
+  }
+]

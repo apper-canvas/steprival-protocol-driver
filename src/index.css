@@ -1,0 +1,86 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-surface-50 text-surface-900 font-sans;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading;
+  }
+}
+
+@layer utilities {
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .glass {
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+  }
+  
+  .animate-step-counter {
+    animation: stepCounter 0.8s ease-out;
+  }
+  
+  @keyframes stepCounter {
+    0% { transform: scale(0.95); opacity: 0.8; }
+    50% { transform: scale(1.02); }
+    100% { transform: scale(1); opacity: 1; }
+  }
+}
+
+/* Custom progress ring styles */
+.progress-ring {
+  transform: rotate(-90deg);
+  transform-origin: 50% 50%;
+}
+
+.progress-ring__circle {
+  transition: stroke-dasharray 0.8s ease-in-out;
+}
+
+/* Toast customization */
+.Toastify__toast {
+  border-radius: 0.75rem;
+  font-family: 'Inter', sans-serif;
+}
+
+.Toastify__toast--success {
+  background: linear-gradient(135deg, #00D084 0%, #33DD9A 100%);
+  color: white;
+}
+
+.Toastify__toast--error {
+  background: linear-gradient(135deg, #FF6B6B 0%, #FF8E8E 100%);
+  color: white;
+}
+
+/* Responsive font sizes */
+@screen sm {
+  html {
+    font-size: 16px;
+  }
+}
+
+@screen md {
+  html {
+    font-size: 16px;
+  }
+}
+
+@screen lg {
+  html {
+    font-size: 16px;
+  }
+}
